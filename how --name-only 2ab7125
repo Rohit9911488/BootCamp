@@ -1,0 +1,32 @@
+[33mcommit 017d36524a3f9e11a86fe4b39f2cab080bf418a5[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: Rohit9911488 <sachdevarohit492@gmail.com>
+Date:   Sun May 31 22:50:37 2026 +0530
+
+    Auto save from Dev-C++
+
+ Diagonal_sum.cpp                                   |  46 [31m--------------[m
+ Diagonal_sum.exe                                   | Bin [31m1921992[m -> [32m0[m bytes
+ Difference_between_first_and_last_element.cpp      |  20 [31m------[m
+ Difference_between_first_and_last_element.exe      | Bin [31m1934098[m -> [32m0[m bytes
+ Leaders_In_Array.cpp                               |  35 [31m-----------[m
+ Leaders_In_Array.exe                               | Bin [31m1950932[m -> [32m0[m bytes
+ ...Consecutive_Increasing_Subarray_with_length.cpp |  45 [31m-------------[m
+ ...Consecutive_Increasing_Subarray_with_length.exe | Bin [31m1965799[m -> [32m0[m bytes
+ README.md                                          |   1 [31m-[m
+ count_vowels_in_string.cpp                         |  23 [31m-------[m
+ count_vowels_in_string.exe                         | Bin [31m1921716[m -> [32m0[m bytes
+ first_non_repeating_character_in_array.cpp         |  22 [32m+++++++[m
+ first_non_repeating_character_in_array.exe         | Bin [31m0[m -> [32m2027878[m bytes
+ frequency_sort.cpp                                 |  34 [31m----------[m
+ frequency_sort.exe                                 | Bin [31m2060184[m -> [32m0[m bytes
+ git_push.bat                                       |   2 [32m+[m[31m-[m
+ git_push.txt                                       |   7 [31m---[m
+ max_and_smallest_array.cpp                         |  31 [31m---------[m
+ prefix_sum.cpp                                     |  35 [31m-----------[m
+ remove_duplicate_character.cpp                     |  31 [31m---------[m
+ remove_duplicate_character.exe                     | Bin [31m1921511[m -> [32m0[m bytes
+ reverse_and_find_negative.cpp                      |  70 [31m---------------------[m
+ reverse_row_from_matric.cpp                        |  33 [31m----------[m
+ reversw2.cpp                                       |  27 [31m--------[m
+ rotate90_matrix.cpp                                |  50 [31m---------------[m
+ 25 files changed, 23 insertions(+), 489 deletions(-)
